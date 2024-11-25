@@ -47,7 +47,7 @@
 	)
 	=>
 	(retract ?colera_eliminada)
-	(printout t "La enfermedad " ?n "Ha sido eliminada" crlf))
+	(printout t "La enfermedad " ?n "Ha sido eliminada" crlf)
 )
 
 ;;Regla que modifica una enfermedad (campo signo) en este caso covid 19
